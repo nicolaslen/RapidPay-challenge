@@ -1,5 +1,4 @@
 ﻿using FluentValidation;
-using Microsoft.AspNetCore.Identity;
 using RapidPay.Application.DTOs;
 
 namespace RapidPay.Application.Services.Cards.Validators;
